@@ -6,7 +6,7 @@ Relationship between Itakura Loss and Field Theory and Holography
 > Linearization yields a massive scalar theory; in the large-target limit, **conformal invariance** emerges and flattens the Hessian spectrum (robust optimization).  
 > A **unified causal bound** limits information propagation in networks (architecture-imposed speed). Links to NTK dynamics and holography; a 1D example shows stabilized, faster training within causal horizons.*
 
-[![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/Scale_Inv_IS_Bound.pdf)
+[![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/Scale_Inv_IS_Bound_EN.pdf)
 [![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/Scale_Inv_IS_Bound_FR.pdf)
 ![Tag](https://img.shields.io/badge/Learning%20Theory-lightgrey)
 ![Tag](https://img.shields.io/badge/Conformal%20Invariance-lightgrey)
